@@ -1,0 +1,1 @@
+{"model__optimizer": "rmsprop", "model__kernel_size": 3, "model__filters": 32, "model__dropout_rate": 0.2, "epochs": 15, "batch_size": 32}
