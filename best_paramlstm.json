@@ -1,0 +1,1 @@
+{"model__units": 64, "model__output_dim": 150, "model__optimizer": "adam", "model__dropout_rate": 0.3, "epochs": 5, "batch_size": 64}
